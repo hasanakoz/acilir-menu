@@ -66,38 +66,3 @@ ul {
   transform: rotateY(-180deg);
   color: white;
 }
-
-/* 
-
-div {
-  border: 2px solid lightblue;
-  width: 40vw;
-}
-
-img {
-  border: 1px solid black;
-  background-color: rgb(159, 141, 27);
-  padding: 0.5rem;
-  height: 3rem;
-  float: left;
-  transition: transform, 1s;
-}
-img:hover {
-  transform: rotateY(180deg);
-  background-color: rgb(159, 141, 27);
-  padding-right: 300px;
-}
-
-h1 {
-  color: white;
-  text-align: center;
-  position: fixed;
-  padding-left: 8rem;
-}
-.clear {
-  clear: both;
-}
-.list {
-  /* background-color: rgb(198, 160, 56); */
-/* font-size: 2rem;
-} */
